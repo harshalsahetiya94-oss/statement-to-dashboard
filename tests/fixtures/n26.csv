@@ -1,0 +1,6 @@
+"Date","Payee","Account number","Transaction type","Payment reference","Amount (EUR)","Amount (Foreign Currency)","Type Foreign Currency","Exchange Rate"
+"2026-08-01","Spotify","","MasterCard Payment","","-10.99","","",""
+"2026-08-03","REWE Berlin","","MasterCard Payment","","-27.15","","",""
+"2026-08-04","Max Mustermann","DE89370400440532013000","Outgoing Transfer","Rent August","-850.00","","",""
+"2026-08-06","Deutsche Bahn","","MasterCard Payment","","-49.90","","",""
+"2026-08-10","Employer GmbH","DE02120300000000202051","Income","Salary 08/2026","2900.00","","",""

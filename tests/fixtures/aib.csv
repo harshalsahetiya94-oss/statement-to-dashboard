@@ -1,0 +1,6 @@
+Posted Account, Posted Transactions Date, Description1, Description2, Description3, Debit Amount, Credit Amount, Balance,Posted Currency, Transaction Type, Local Currency Amount, Local Currency
+"12345678", 01/08/26, VDP-SUPERVALU, ENNIS, , 54.20, , 2100.10,EUR, Debit, 54.20, EUR
+"12345678", 02/08/26, D/D ELECTRIC IRELAND, , , 112.00, , 1988.10,EUR, Direct Debit, 112.00, EUR
+"12345678", 03/08/26, ATM CASH WITHDRAWAL, O CONNELL ST, , 100.00, , 1888.10,EUR, ATM, 100.00, EUR
+"12345678", 05/08/26, SALARY ACME LTD, , , , 3200.00, 5088.10,EUR, Credit, 3200.00, EUR
+"12345678", 14/08/26, VDP-CIRCLE K, LIMERICK, , 62.30, , 5025.80,EUR, Debit, 62.30, EUR

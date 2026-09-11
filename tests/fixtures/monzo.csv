@@ -1,0 +1,6 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0001,02/08/2026,08:31:00,Card payment,Pret A Manger,🥪,Eating out,-4.25,GBP,-4.25,GBP,,,,PRET A MANGER LONDON,,-4.25,
+tx_0002,03/08/2026,19:02:11,Card payment,Sainsbury's,🛒,Groceries,-38.60,GBP,-38.60,GBP,,,,SAINSBURYS S/MKT,,-38.60,
+tx_0003,05/08/2026,00:00:00,Direct Debit,PureGym,🏋️,Fitness,-24.99,GBP,-24.99,GBP,,,,PUREGYM LTD,,-24.99,
+tx_0004,15/08/2026,12:00:00,Faster payment,Acme Ltd,💷,Income,2100.00,GBP,2100.00,GBP,,,,ACME LTD SALARY,,,2100.00
+tx_0005,20/08/2026,17:45:03,Card payment,TfL,🚇,Transport,-6.40,GBP,-6.40,GBP,,,,TFL TRAVEL CH,,-6.40,

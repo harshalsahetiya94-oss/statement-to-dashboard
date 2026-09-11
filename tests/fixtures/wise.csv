@@ -1,0 +1,5 @@
+"TransferWise ID","Date","Amount","Currency","Description","Payment Reference","Running Balance","Exchange From","Exchange To","Exchange Rate","Payer Name","Payee Name","Payee Account Number","Merchant","Card Last Four Digits","Card Holder Full Name","Attachment","Note","Total fees"
+"CARD-1","03-08-2026","-12.50","EUR","Card transaction of 12.50 EUR issued by Uber","","488.00","","","","","","","Uber","1234","Harshal Sahetiya","","","0.00"
+"TRANSFER-2","06-08-2026","-300.00","EUR","Sent money to Savings account","","188.00","","","","","","","","","","","","0.00"
+"CARD-3","09-08-2026","-8.90","EUR","Card transaction of 8.90 EUR issued by Starbucks","","179.10","","","","","","","Starbucks","1234","Harshal Sahetiya","","","0.00"
+"BALANCE-4","12-08-2026","1000.00","EUR","Received money from Acme Ltd with reference INV-22","INV-22","1179.10","","","","Acme Ltd","","","","","","","","0.00"
