@@ -25,7 +25,7 @@ jobs:
       - run: node bin/statement-parse.mjs tests/fixtures/revolut.csv tests/fixtures/aib.csv
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
-        with: { path: dist }
+        with: { path: dist/app }
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: test
