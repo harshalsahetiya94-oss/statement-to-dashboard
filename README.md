@@ -1,5 +1,9 @@
 # Statement to Dashboard
 
+[![test and deploy](https://github.com/harshalsahetiya94-oss/statement-to-dashboard/actions/workflows/ci-and-pages.yml/badge.svg)](https://github.com/harshalsahetiya94-oss/statement-to-dashboard/actions/workflows/ci-and-pages.yml)
+
+**Live: https://harshalsahetiya94-oss.github.io/statement-to-dashboard/** (try it with the sample data, or drop your own file; nothing is uploaded)
+
 Drop your bank's CSV export. Get clean, categorised transactions and a spending picture. **Everything runs in your browser; nothing is uploaded.**
 
 ![Dashboard](docs/screenshot-dashboard.png)
@@ -22,7 +26,7 @@ It grew out of a personal finance tracker I built in three rounds during 2026: a
 
 ## Use it
 
-**In the browser:** open the hosted app, or run it locally:
+**In the browser:** open the [hosted app](https://harshalsahetiya94-oss.github.io/statement-to-dashboard/), or run it locally:
 
 ```bash
 npm install
